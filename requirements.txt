@@ -1,0 +1,7 @@
+torch
+sentencepiece
+numpy
+matplotlib
+streamlit
+fastapi
+uvicorn
